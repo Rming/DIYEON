@@ -4,7 +4,7 @@ This ia A DIY EON with Magnetic Mount
 
 What you need
 
-2  *   40x40x7mm7mm 5v fan
+2  *   40x40x6mm 5v fan
 
 1  *    150mm x 60mm x 5mm aluminium heat sink (a 2 . 100mm x 60mm x 10mm could be milled down to a height of 5mm)
 
